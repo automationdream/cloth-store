@@ -16,7 +16,6 @@ const TopicsList = () => (
 
 const TopicsDetail = (params) => (
     <div>
-        {console.log(params)}
         <h1> Topics Detail: {params.match.params.topicId} </h1>
     </div>
 )
