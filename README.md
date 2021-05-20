@@ -1,2 +1,2 @@
-# clouth-store
-React clouth store
+# cloth-store
+React cloth store
